@@ -31,8 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="vector2.cpp" />
-		<Unit filename="vector2.hpp" />
+		<Unit filename="Vector2.cpp" />
+		<Unit filename="Vector2.hpp" />
+		<Unit filename="precision.hpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
