@@ -1,5 +1,3 @@
-#include "vector2.hpp"
-
 #include "Vector2.hpp"
 
 using namespace Airfoilspace;
